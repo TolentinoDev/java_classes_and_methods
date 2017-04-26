@@ -11,5 +11,7 @@ This project was made for Computer Science 204 Introduction to Java Programming.
 # What Does it Do?
 Explains classes and methods  
 
-![alt tag](https://github.com/RT-Design/BannerSec/blob/master/Pictures/Index.png)
+![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/flow.png)
+![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/class.png)
+![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/method.png)
 
