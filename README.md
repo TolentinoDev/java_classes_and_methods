@@ -12,7 +12,7 @@ This project was made for Computer Science 204 Introduction to Java Programming.
 Explains classes and methods  
 # Under The Hood
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/compile.png)
-# FLow Chart
+# Flow Chart
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/flow.png)
 # Classes Example
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/class.png)
