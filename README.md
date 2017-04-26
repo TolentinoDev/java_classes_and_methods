@@ -10,8 +10,10 @@ This project was made for Computer Science 204 Introduction to Java Programming.
 
 # What Does it Do?
 Explains classes and methods  
-
+# FLow Chart
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/flow.png)
+# Classes Example
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/class.png)
+# Methods Example 
 ![alt tag](https://github.com/TolentinoDev/java_classes_and_methods/blob/master/method.png)
 
